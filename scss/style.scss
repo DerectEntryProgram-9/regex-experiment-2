@@ -1,3 +1,11 @@
-h1{
-    color: red;
+body{
+    background-color: lightgray;
+}
+
+table.empty tr#no-records-row{
+    display: table-row;
+}
+
+tr#no-records-row{
+    display: none;
 }
